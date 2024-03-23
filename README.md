@@ -23,6 +23,10 @@ To set up your environment for the workshop, follow these steps:
 
 ## Workshop Structure
 
+All workshop material is provided in the [`Fasion_MNIST.ipynb](Fasion_MNIST.ipynb)
+
+**For more experienced programmers there is another option which I have yet to improve located in the [`Diff_Proj_for_experts`](Diff_Proj_for_experts) folder
+
 The workshop is divided into the following sections:
 
 1. **Introduction to TensorFlow and the Fashion MNIST dataset**
