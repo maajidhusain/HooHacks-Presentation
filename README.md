@@ -15,7 +15,7 @@ Before we dive in, make sure you have the following prerequisites ready:
 
 To set up your environment for the workshop, follow these steps:
 
-1. Clone the workshop repository:
+1. Clone the workshop repository: [https://github.com/maajidhusain/HooHacks-Presentation.git](https://github.com/maajidhusain/HooHacks-Presentation.git)
 
 
 2. Install the required Python packages:
